@@ -37,7 +37,7 @@
 * Proposals can not be executed automatically, but, once a Proposal passes, any Member of the DAO can trigger the accepted Proposal
 
 ## DAO Dashboard
-* https://thirdweb.com/
+* The Management of the DAO is possible via the following Page: https://thirdweb.com/
 
 ## Project Structure
 
