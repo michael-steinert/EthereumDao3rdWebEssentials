@@ -36,6 +36,9 @@
 * If a Proposal has ended any Member is able to execute the proposal via the Governance Smart Contract
 * Proposals can not be executed automatically, but, once a Proposal passes, any Member of the DAO can trigger the accepted Proposal
 
+## DAO Dashboard
+* https://thirdweb.com/
+
 ## Project Structure
 
 * A deployed ERC-20 Token for Governance Token in the DAO
@@ -46,3 +49,7 @@
   * get an Membership NFT,
   * see a DAO Dashboard where they can see other Members and
   * vote on Proposals that are executed by the Governance Smart Contract
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/29623199/147402751-df975b35-7684-4e51-ba60-5aab7ecc6421.png" alt="DAO Smart Contracts" width="75%"/>
+</P>
